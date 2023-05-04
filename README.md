@@ -1,3 +1,25 @@
+This Fork
+=========
+
+This is a fork of xxHash that converts it into a PlatformIO package. The
+package is published on the [PlatformIO Registry][registry link].
+
+[registry link]: https://registry.platformio.org/libraries/urban-machine/xxHash
+
+Publishing
+----------
+
+To publish a new version of this package, bump the version in
+`platformio/library.json` and run the following commands:
+
+```bash
+cd platformio
+make
+make publish
+```
+
+You must be logged in to an account that is a member of the Urban Machine
+organization to do this.
 
 xxHash - Extremely fast hash algorithm
 ======================================

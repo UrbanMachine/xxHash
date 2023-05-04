@@ -1,0 +1,22 @@
+{
+    "name": "xxHash",
+    "version": "0.8.1-pio.1",
+    "description": "Extremely fast non-cryptographic hash algorithm",
+    "keywords": "hash",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/UrbanMachine/xxHash.git"
+    },
+    "authors": [
+        {
+            "name": "Urban Machine",
+            "email": "info@urbanmachine.build",
+            "url": "https://urbanmachine.build",
+            "maintainer": true
+        }
+    ],
+    "license": "BSD-2-Clause",
+    "homepage": "http://www.xxhash.com/",
+    "frameworks": "*",
+    "platforms": "*"
+}
